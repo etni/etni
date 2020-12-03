@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I'm currently interviewing to find my next project. 
 - 🌱 I’m currently learning python, advanced css
 - 💬 Ask me about sql, c#, javascript
 
