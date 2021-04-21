@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about sql, c#, javascript
+- 💬 Ask me about sql, c#, javascript, python
 
 
  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
