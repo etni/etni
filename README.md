@@ -27,4 +27,4 @@
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [System design primer](https://github.com/donnemartin/system-design-primer)
 
- [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
