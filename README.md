@@ -23,7 +23,7 @@
 
 ## Interviewing resources
 
-* [Tech Interview Handbook])https://github.com/yangshun/tech-interview-handbook)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [System design primer](https://github.com/donnemartin/system-design-primer)
 
